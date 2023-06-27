@@ -1,7 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-username = "t7kSmfYtfWTDhdVb",
-    password = "6PLNpX9zZsW4nxSX1m7DlgvcfhGIl7Ew",
+
     auth = "Basic " + new Buffer.from(username + ":" + password).toString("base64");
 
 async function map_fivetran_connector(){
