@@ -1,0 +1,270 @@
+Name,Type,Description
+360Learning,HumanResources,360Learning is a learning and development platform.
+ADP Workforce Now,HumanResources,ADP Workforce Now is a all-in-one platform for payroll and HR software, providing expert support and analytics for data-driven insights
+AWS CloudTrail,File,AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. With AWS CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure.
+AWS Inventory,API,AWS Inventory is a comprehensive service that provides you with an Amazon Web Services (AWS) resource inventory, configuration history, and configuration change notifications. With AWS Inventory, you can fetch and view the details of the services of your AWS account.
+AWS Lambda,Function,AWS Lambda is a serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+AWS MSK,Events,AWS Managed Streaming for Kafka is a managed distributed streaming platform.
+ActiveCampaign,Marketing,ActiveCampaign is a customer experience automation platform.
+AdRoll,Marketing,AdRoll is prospecting and retargeting platform
+Ada,Support,Ada is an automated brand interaction platform.
+Adjust,Marketing,Adjust is a mobile measurement and fraud prevention platform.
+Adobe Analytics,Marketing,Adobe Analytics provides marketing analytics and reporting tools.
+Adobe Analytics Data Feed,Marketing,Adobe Analytics Data Feeds provide raw events data
+Aircall,Marketing,Aircall is a cloud-based call center and phone system.
+Airtable,Productivity,Airtable is an online collaboration platform for creating and sharing relational databases.
+Alchemer,Support,Alchemer is a feedback and data collection platform.
+Amazon Ads,Marketing,Amazon Ads is an advertising service that uses the pay-per-click model.
+Amazon CloudFront,File,null
+Amazon DocumentDB,Database,Amazon DocumentDB is a fully-managed NoSQL database service that is built for JSON data management and integrated with AWS.
+Amazon Kinesis Firehose,File,Amazon Kinesis Firehose is a tool for capturing, manipulating, and loading data as it streams from a source to an AWS destination. Upon arrival at an S3 bucket, data from a Firehose delivery stream will appear without newline delimiters in extensionless files. Fivetran supports syncing from an Amazon S3 bucket to your destination json files that originate from a Kinesis Firehose delivery stream.
+Amazon S3,File,Amazon Simple Storage Service (Amazon S3), provides scalable cloud storage services. Fivetran supports syncing files from your S3 bucket to your destination.
+Amazon Selling Partner,Sales,Amazon Selling Partner (Seller/Vendor ) is Amazon's sales activity monitoring portal.
+Amplitude,Events,Amplitude is the comprehensive product analytics software for web and mobile
+Anaplan,Finance,Anaplan is a cloud-based platform for business planning and modeling.
+Apache Kafka,Events,Apache Kafka is an open-source distributed streaming platform for building real-time data pipelines and stream processing applications.
+Apple App Store,Marketing,Apple App Store (formerly known as iTunes Connect) is a suite of web-based tools created for developers to submit and manage their apps for sale in the App Store or the Mac App Store.
+Apple Search Ads,Marketing,Apple Search Ads helps people discover your app on the App Store for iPhone and iPad.
+AppsFlyer,Marketing,AppsFlyer is a mobile app tracking and attribution analytics platform.
+Asana,Productivity,Asana is a project management tool that helps teams track their tasks and projects.
+Assembled,Support,Assembled is a workforce management platform for customer service.
+Aurora MySQL,Database,Amazon Aurora MySQL is a relational database.
+Aurora Postgres,Database,Aurora Postgres is a hosted version of the popular Postgres database on the Amazon Aurora platform
+Azure Blob Storage,File,Fivetran supports syncing files from Azure Blob Storage to your destination.
+Azure Cosmos DB - NoSQL API,Database,Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications.
+Azure Event Hubs,Events,Azure Event Hubs is a managed distributed streaming platform.
+Azure Functions,Function,Azure Functions is a serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+Azure MariaDB,Database,Azure MariaDB is a hosted version of the popular Maria database on the Azure platform.
+Azure MySQL,Database,Microsoft Azure MySQL is a high-performance MySQL-compatible database system.
+Azure PostgreSQL Database,Database,Azure SQL Database is a managed relational cloud database service
+Azure SQL Database,Database,Azure SQL Database is a managed relational cloud database service.
+Azure SQL Managed Instance,Database,Azure SQL Managed Instance is a managed relational cloud database service.
+Azure Service Bus,Events,Azure Service Bus is a cloud messaging service.
+Bamboo HR,HumanResources,BambooHR is a human resources management software as a service.
+Big Commerce,Sales,Complete e-commerce solution that allows you to set up an online store on any social media platform
+BigQuery,Database,Cloud Database Service (https://cloud.google.com/bigquery)
+Box,File,Box is a cloud-based file storage service. Fivetran supports syncing files from your Box account to your destination. You can sync multiple files as unique tables to your destination.
+Braintree,Finance,Braintree helps businesses of all sizes, from small to large enterprise, accept, process, and split payments to help maximize business opportunities and revenue growth. Companies around the world benefit from the technology and support of Braintree coupled with the scale, backing, and confidence of partnering with a PayPal service.
+Braintree Sandbox,Finance,Braintree helps businesses of all sizes, from small to large enterprise, accept, process, and split payments to help maximize business opportunities and revenue growth. Companies around the world benefit from the technology and support of Braintree coupled with the scale, backing, and confidence of partnering with a PayPal service.
+Branch,Marketing,Branch is a mobile measurement and deep linking platform that unifies user measurement across different devices, platforms, and channels.
+Braze,Marketing,Braze is a platform for cross-channel marketing automation.
+Brex,Finance,Brex is a spend management platform.
+Buildkite,Engineering,Connect your Buildkite data to your destination using Fivetran. Learn about configuration requirements, setup, and ERDs with our technical documentation.
+Calendly,Productivity,Calendly is an app for scheduling appointments, meetings, and events.
+Campaign Monitor,Marketing,Campaign Monitor is an email marketing automation tool.
+Chameleon,Engineering,Chameleon is a platform for user onboarding.
+ChannelAdvisor,Finance,ChannelAdvisor is a cloud-based e-commerce platform.
+Chargebee Product Catalog 1.0,Finance,Chargebee is a subscription billing and revenue management platform.
+Chargebee Product Catalog 2.0,Finance,Chargebee Product Catalog 2.0 is a billing, subscription, and revenue management platform.
+ChartMogul,Marketing,ChartMogul is a reporting and analytics solution.
+Chorus,Marketing,Chorus is an AI conversation platform.
+Cin7,Productivity,Cin7 is a fully integrated, cloud-based inventory management software that streamlines stock management across multiple channels.
+ClickUp,Engineering,ClickUp is a cloud-based collaboration and project management tool.
+Close,Sales,Close is a CRM system for sales specialists.
+Collibra,Engineering,Collibra is a data intelligence cloud platform.
+Confluent Cloud,Events,Confluent Cloud is a managed distributed streaming platform.
+Coupa,Finance,Coupa Software is a global technology platform for Business Spend Management
+Criteo,Marketing,Criteo helps internet retailers serve personalized advertisements through retargeting
+Crossbeam,Sales,Crossbeam is a partner ecosystem platform.
+DEAR,Finance,DEAR is a cloud-based ERP solution.
+Delighted,Support,Delighted is an online solution that enables businesses to gather and  measure actionable feedback from customers, employees, partners, and vendors.
+Dixa,Productivity,Dixa is a customer service platform.
+Docebo,HumanResources,Docebo is a learning management system.
+Drift,Productivity,Drift is a sales acceleration platform that provides sales and marking software.
+Drip,Marketing,Drip is a marketing automation platform for e-commerce businesses.
+Dropbox,File,Dropbox is a cloud storage provider. Fivetran supports syncing files from your Dropbox account to your destination. You can sync multiple files as unique tables to your destination.
+DynamoDB,Database,Amazon DynamoDB is a fully-managed, proprietary NoSQL database service that is offered as part of Amazon Web Services (AWS).
+EasyPost,Finance,EasyPost is a shipping platform for e-commerce businesses.
+Elastic Cloud,Database,Elastic Cloud is a NoSql Document Database
+Eloqua,Marketing,Oracle Eloqua equips marketers with best-in-class lead and campaign management tools that help marketers engage the right audience at the right time in the buyer's journey while providing real-time reporting and insights.
+Email,File,Email CSV and JSON files to your destination with the Email Connector. The Email Connector extracts one or more attachments from the email, parses the attachment data and uploads them into your warehouse. Emails are deleted once attachments are extracted from it. This is designed for schedule email reports.
+Eventbrite,Marketing,Eventbrite is an event management and ticketing platform.
+FTP,File,Fivetran supports syncing files from an FTP server to your destination.
+Facebook Ad Account,Marketing,Facebook Ad Account provides a history of the settings of your Facebook Ad Accounts, Campaigns, Ad Sets, Ads, and Ad Creatives.
+Facebook Ad Insights,Marketing,Facebook Ad Insights gives you information about the performance of your Facebook ads.
+Facebook Ads,Marketing,Facebook Ads provides a history of the settings of your Ad Account, Campaigns, Ad Sets, Ads, and Ad Creatives. Facebook Ads also fetches Ad Insights data.
+Facebook Pages,Marketing,Sync your Facebook pages and posts, as well as insights about them, with the Facebook Pages connector.
+FinancialForce,API,FinancialForce is an ERP and service automation tool built on Salesforce.
+Firebase,Database,Firebase is an application development platform. Firebase Cloud Firestore is a NoSQL document database characterized by a lack of a fixed schema. Data is stored in key-value pairs in documents that form a collection.
+Fivetran Log,Free,Fivetran generates structured log events from connectors, dashboard user actions, and Fivetran API calls. The Fivetran Log Connector delivers your logs and account metadata to a schema in your destination. This metadata includes granular Fivetran consumption information.
+Fountain,HumanResources,Fountain is a hiring automation software.
+Freightview,Productivity,Freightview is an online transportation management system.
+FreshTeam,HumanResources,FreshTeam is an HR management platform.
+Freshdesk,Support,Freshdesk is a SaaS customer support software and help desk ticketing system. The solution also includes features like Knowledge Base, Community Platform, Live Chat, Phone Support, etc.
+Freshservice,Engineering,Freshservice is a IT service management platform.
+Freshservice_lite,Engineering,Freshservice is a IT service management platform.
+Front,Support,Front simplifies how your team manages email lists and customer communications. It provides services to centralize all your communication in one place and optimize how your team handles every message with powerful automations. It also connects your inbox with all the apps you rely on.
+Gainsight,Sales,Gainsight is a revenue optimization platform.
+Gainsight Customer Success,Productivity,Gainsight Customer Success is a customer success platform.
+GitHub,Engineering,GitHub is a platform for developers to build personal projects, support their businesses, and work together on open-source technologies. Fivetran helps you export data about commits, users, pull-requests, and other GitHub data.
+Gladly,Support,Gladly is a customer service platform.
+GoCardless,Finance,GoCardless is a payment platform that facilitates payment processing for recurring payments.
+Gong,Productivity,Gong is a revenue intelligence platform.
+Google Ad Manager,Marketing,Google Ad Manager is a hosted ad serving platform to streamline ad management, whether you deliver ads to websites, mobile web pages, mobile apps, games, or a combination. It offers an integrated platform to manage all direct and programmatic sales, and to streamline all ad sales across your web and app inventory.
+Google Ads,Marketing,Google Ads is an online advertising platform
+Google Analytics,Marketing,Google Analytics lets you analyze data about customer engagement with your website or application.
+Google Analytics (MCF),Marketing,Google Analytics Multi-Channel Funnels (MCF) Reports lets you get conversion path data that shows user interactions with various traffic sources over multiple sessions prior to converting, and to analyze how multiple marketing channels influence conversions.
+Google Analytics 360,Marketing,Google Analytics 360 provides the tools and support that enterprise teams need to get actionable insights from their data. You can export session and hit data from a Google Analytics 360 account to BigQuery. When you export data to BigQuery, you own that data, and you can use BigQuery ACLs to manage permissions on projects and datasets.
+Google Analytics 4,Marketing,Google Analytics 4 lets you analyze data about customer engagement with your website or application.
+Google Analytics 4 Export,Marketing,Google Analytics 4 is an analytics service to measure traffic and engagement across websites and mobile apps.
+Google Campaign Manager 360,Marketing,Google Campaign Manager 360 simplifies advertising campaign management, from media planning to reporting. With all your digital marketing efforts on one powerful platform, you can work smarter, act quicker, and get better results.
+Google Cloud Functions,Function,Google Cloud Functions is a serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+Google Cloud MySQL,Database,Google Cloud MySQL is a fully-managed MySQL database on Google Cloud Platform.
+Google Cloud PostgreSQL,Database,Google Cloud SQL Postgres is a hosted version of the popular Postgres database on the Google Cloud platform
+Google Cloud SQL - SQL Server,Database,Google Cloud SQL is a fully managed SQL Server databases in Google Cloud.
+Google Cloud Storage,File,Google Cloud Storage is Google's cloud storage system.
+Google Display & Video 360,Marketing,Google Display & Video 360 is an integrated solution for end-to-end advertising campaigns.
+Google Drive,File,Google Drive is a file storage and synchronization service. Fivetran supports syncing files from your Google Drive to your destination. You can sync multiple files as unique tables to your destination.
+Google Play,Marketing,The Google Play connector will sync monthly reports about individual Android apps to help you track and understand your app's performance. The mid-month reports are updated daily. The full set of reports are described in the Google Play documentation.
+Google Search Console,Marketing,Google Search Console helps you monitor and maintain your site's presence in Google Search results.
+Google Sheets,File,Google Sheets is a web-based application that allows users to create, update, and modify spreadsheets and share the data live online.
+Gorgias,Support,Gorgias is a customer support platform for e-commerce businesses.
+Greenhouse,HumanResources,Greenhouse is an applicant tracking system and recruiting software designed to optimize your entire recruiting process. Find better candidates, conduct more focused interviews, and make data-driven hiring decisions.
+Guru,Engineering,Guru is a data organization platform.
+Harvest,Productivity,Harvest is an online time-tracking tool.
+Heap,Events,Heap automatically captures every web, mobile, and cloud interaction: clicks, submits, transactions, emails, and more. Retroactively analyze your data without writing code.
+Height,Productivity,Height is a collaborative work service that helps to maintain a project workflow.
+Help Scout,Support,Help Scout is a help desk software that provides an email-based customer support.
+Heroku Kafka,Events,Heroku Kafka is a managed distributed streaming platform.
+Heroku Postgres,Database,Heroku Postgres is a hosted version of the popular Postgres database on the Heroku platform
+High Volume Agent Db2 for i,Database,Db2 for i is a relational database management system integrated with IBM i. Fivetran replicates data from your Db2 for i source database and loads it into your destination using High-Volume Agent connector.
+High-Volume Agent SQL Server,Database,SQL Server is Microsoft's SQL database. Fivetran replicates data from your SQL Server source database and loads it into your destination at regular intervals using the High-Volume Agent connector.
+HubSpot,Marketing,HubSpot is an inbound marketing and sales software that helps companies attract visitors, convert leads, and close customers.
+Impact,Marketing,Impact is a partnership management platform.
+Instagram Business,Marketing,Instagram Business provides metadata and insights for IG User (Instagram Business Account) and IG Media (Instagram Photo, Video, Story, or Album) objects.
+Intercom,Support,Intercom brings messaging products for sales, marketing & customer service to one platform, helping businesses avoid the stiff, spammy status quo and have real conversations that build real connections. Designed to feel like the messaging apps you use every day, Intercom lets you talk to consumers almost anywhere: inside your app, on your website, across social media and via email.
+Ironclad,Productivity,Ironclad automates contracting processes for legal, sales, and operational sides of businesses.
+Iterable,Marketing,Iterable is a growth marketing and customer engagement platform. It enables brands to create, execute and optimize campaigns across email, push, SMS, in-app and more with unparalleled data flexibility.
+Jira,Engineering,Jira is a bug tracking, issue tracking and project management software.
+Khoros Care,Support,Khoros Care is a digital customer engagement platform.
+Klaviyo,Marketing,Klaviyo is an email platform powered by data built for commerce and web businesses. Klaviyo makes it easy for ecommerce marketers to target, personalize, measure and optimize email and Facebook campaigns.
+Kustomer,Support,Kustomer is a software platform for customer experience, service, and support integrated with a number of sources to give support staff a complete picture of a customer when they contact the company.
+Lattice,HumanResources,Lattice is a people management platform.
+Lessonly,HumanResources,Lessonly by Seismic is a team training software.
+Lever,HumanResources,Lever is a Modern Recruiting Software that streamlines the hiring process and simplifies the Applicant Tracking System.
+Lightspeed Retail,Finance,Lightspeed Retail is a cloud-based point of sale (POS) solution that is suitable for retailers.
+LinkedIn Ad Analytics,Marketing,LinkedIn Ad Analytics offer you information about the performance of your LinkedIn Ads.
+LinkedIn Company Pages,Marketing,LinkedIn Company Pages offer you information about the company pages statistics, reactions and social metadata by your LinkedIn organizations.
+Lob,Marketing,Lob is direct mail platform.
+Magento MySQL,Database,Magento is an ecommerce platform which provides online merchants with a flexible shopping cart system, and customization of their online store. It offers marketing, search engine optimization, and catalog-management tools. Magento's underlying technology is built on the MySQL database.
+Magento MySQL RDS,Database,Magento is an ecommerce platform which provides online merchants with a flexible shopping cart system, and customization of their online store. It offers marketing, search engine optimization, and catalog-management tools. Magento's underlying technology is built on the MySQL RDS database.
+Mailchimp,Marketing,Mailchimp is an email marketing platform to send emails and automated messages, create targeted campaigns, facilitate reporting and analytics, and sell online.
+Mailgun,Marketing,Mailgun is the intelligent email delivery platform.
+Mandrill,Marketing,Mandrill is a transactional email API for Mailchimp users.
+MariaDB,Database,MariaDB is an open-source fork of the popular MySQL relational database. Its development is led by some of the original developers of MySQL.
+MariaDB RDS,Database,MariaDB RDS is a fork of the popular MySQL database on Amazon RDS.
+Marin Software,Marketing,Marin Software is an online advertising platform to measure, manage, and optimize ad spending across the web and mobile devices. Marin provides a Data Passback service which exports reporting data to an SFTP server. Fivetran syncs files from Marin's Data Passback SFTP server to your destination.
+Marketo,Marketing,Marketo develops marketing automation software that provides inbound marketing, social marketing, CRM, and other related services.
+Mavenlink,Productivity,Mavenlink is an online project management software. Besides project management, it has time tracking, resource planning, collaboration, finance etc. functions.
+Medallia,Support,Medallia is a customer experience management platform.
+Microsoft Advertising,Marketing,Microsoft Advertising (formerly known as Bing Ads) is a service that provides pay-per-click advertising for both the Bing and Yahoo search engines. To get an overview of Microsoft Advertising, see its entity hierarchy and limits documentation.
+Microsoft Dynamics 365 CRM,Sales,Microsoft Dynamics 365 CRM is a cloud-based CRM built by Microsoft for maximum flexibility and extensibility.
+Microsoft Dynamics 365 F/O,Database,Microsoft Dynamics 365 for Finance and Operations is an enterprise-level ERP solution that can be deployed in the cloud or on-premises.
+Microsoft Dynamics 365 F/O ADLS,Sales,Microsoft Dynamics 365 Finance and Operations is an ERP solution for large to medium organizations.
+Microsoft Lists,Engineering,Microsoft Lists is a Microsoft 365 application for work management and tracking.
+Mixpanel,Events,Mixpanel is a business analytics service that tracks user interactions with web and mobile applications. The data collected is used to build custom reports and measure user engagement and retention.
+Monday.com,Engineering,Monday.com is a web and mobile work management platform.
+MongoDB,Database,MongoDB is a NoSQL database characterized by a lack of fixed columns and fixed tables. Instead, it has collections (which are similar to tables) and dynamic schemas. MongoDB is a document-oriented database that uses JSON documents.
+MongoDB Sharded,Database,MongoDB is a NoSQL database characterized by a lack of fixed columns and fixed tables. Instead, it has collections (which are similar to tables) and dynamic schemas. MongoDB is a document-oriented database that uses JSON documents.
+Mux,Marketing,Mux is an API-based video platform.
+MySQL,Database,MySQL is an open-source relational database. Fivetran's integration platform replicates data from your MySQL source database and loads it into your destination.
+MySQL RDS,Database,MySQL RDS is a hosted version of the popular MySQL database on the Amazon RDS platform.
+NetSuite SuiteAnalytics,Finance,NetSuite provides SuiteAnalytics as a paid option, giving businesses the power of built-in real-time dashboards, reporting and analysis—integrated right into the ERP, CRM or ecommerce application that you use every day.
+Okta,Productivity,Okta is an identity management service.
+OneDrive,File,OneDrive is a cloud-based file storage service provided by Microsoft. Fivetran supports syncing files from your OneDrive account to your destination. You can sync multiple files as unique tables to your destination.
+Open Data DC,Productivity,Open Data DC is an open data portal that provides government data for Washington, D.C.
+Open Distro,Database,Open Distro is a NoSql Document Database
+Open Exchange Rates,Finance,Open Exchange Rates is a JSON API that provides live and historical currency exchange rates.
+Opensearch,Database,OpenSearch is a NoSql Document Database
+Optimizely,Events,Optimizely is an experimentation platform, enabling businesses to deliver continuous experimentation and personalization across websites, mobile apps, and connected devices.
+Oracle Fusion Cloud Applications - CRM,Sales,Oracle Fusion Cloud Applications - CRM is a cloud solution that supports multiple areas of the sales process including customer data management, configure price quote, and subscription management.
+Oracle Fusion Cloud Applications - FSCM(ERP & SCM),Finance,Oracle Fusion Cloud Applications - FSCM (ERP & SCM) is an Enterprise Resource Planning (ERP) and Supply Chain Management platform covering multiple business areas including, accounting, consolidation, planning, procurement and projects.
+Oracle Fusion Cloud Applications - HCM,HumanResources,Oracle Fusion Cloud Applications - HCM is a cloud solution that supports multiple people operations in an organization including Human Resources, Talent Management, Workforce Management, and Payroll.
+Orbit,Marketing,Orbit is a community management platform.
+Outbrain,Marketing,Outbrain is a native advertising platform using targeted advertising to recommend articles, slideshows, blog posts, photos or videos to a reader.
+Outreach,Sales,Outreach is a sales engagement platform and automation service.
+Pardot,Marketing,Pardot is a SaaS-based marketing automation application from Salesforce, enabling marketers to create, deploy and manage online promotion campaigns.
+Paypal,Finance,Paypal is an online payment processing platform
+Paypal Sandbox,Finance,PayPal Sandbox is a self-contained, virtual testing environment that simulates the live PayPal production environment
+Pendo,Events,Pendo helps product teams understand and guide users to create product experiences that customers love.
+Pinterest Ads,Marketing,Pinterest is an online pin board for collecting and sharing multimedia. Pinterest Ads help businesses increase brand's visibility and drive conversions. Ads can be targeted based on user's demographics, search terms, and interests.
+Pipedrive,Sales,Pipedrive is a sales CRM and pipeline management platform.
+PostHog,Engineering,PostHog is an open-source product analytics platform.
+Postgres,Database,Postgres is a database system
+Postgres RDS,Database,Postgres RDS is a hosted version of the popular Postgres database on the Amazon RDS platform
+Productboard,Engineering,Productboard is a customer-driven product management system.
+Qualtrics,Support,Qualtrics is an online survey tool that allows you to build and distribute surveys, and analyze responses.
+QuickBooks,Finance,QuickBooks is Intuit Inc's set of software solutions designed to manage payroll, inventory, sales, and other needs of a small business. The software's features include marketing tools, merchant services, product and supplies training solutions.
+Rarible,Engineering,Rarible is a marketplace for issuing and selling custom crypto assets.
+Recharge,Finance,Recharge provides a recurring billing and subscriptions solution for ecommerce.
+Recurly,Finance,Recurly provides recurring billing management as an outsourced service.
+Reddit Ads,Marketing,Reddit Ads is an online advertising platform where advertisers bid to display promoted posts sprinkled in with regular Reddit posts.
+RetailNext,Marketing,RetailNext is an in-store retail analytics platform.
+Retently,Marketing,Retently is a customer experience management platform.
+RingCentral,Support,RingCentral is a cloud-based business communications solutions platform.
+Rollbar,Engineering,Rollbar is a cloud-based code improvement solution to monitor and debug errors in your application code.
+SAP Business ByDesign,Finance,SAP Business ByDesign is a cloud-based enterprise resource planning system for small and medium-sized organizations.
+SAP Concur,Finance,SAP Concur provides an integrated online business travel and expense management software solution that automates your travel expenses.
+SCORM,HumanResources,SCORM (Sharable Content Object Reference Model) is a set of technical standards for eLearning products.
+SFTP,File,Fivetran supports syncing files from your SSH server to your destination using SFTP.
+SQL Server,Database,SQL Server is Microsoft's SQL database. Fivetran's integration service replicates data from your SQL Server source database and loads it into your destination at regular intervals.
+SQL Server RDS,Database,SQL Server RDS is a hosted version of the popular Microsoft SQL Server database on the Amazon RDS platform.
+Sage Intacct,Finance,Sage Intacct is a provider of cloud-based accounting software which can provide real-time financial and operational insights, as well as the ability to automate critical processes.
+Sailthru,Marketing,Sailthru provides services for email management. Sailthru services include scheduling and sending campaigns and transactional emails to each user's interest. Campaigns are email messages scheduled for group of users based on a specific template. It can contain news update or promotional messages. Transactional emails are sent to a particular user in response to a specific action.
+Salesforce,Sales,Salesforce is a cloud-based CRM platform.
+Salesforce Commerce Cloud,Finance,Salesforce Commerce is an ecommerce platform that provides unified, intelligent digital commerce experiences, both online and in the store.
+Salesforce Marketing Cloud,Marketing,Salesforce Marketing Cloud provides digital marketing automation, analytics, and lead management for B2B and B2C companies.
+Salesforce sandbox,Sales,Salesforce is a cloud-based CRM platform.
+Salesloft,Sales,Salesloft is a sales engagement platform.
+Samsara,Productivity,Samsara develops sensor systems with remote networking and cloud-based analytics.
+Segment,Events,Segment is an event tracking library.
+Self Hosted Elasticsearch,Database,Self-Hosted Elasticsearch is a NoSql Document Database
+SendGrid,Marketing,SendGrid is a customer communication platform for transactional and marketing emails.
+Sendinblue,Marketing,Sendinblue is a digital marketing platform for businesses.
+ServiceNow,Productivity,ServiceNow is a cloud platform that provides service management software as a service.
+SharePoint,File,SharePoint is a file storage and collaboration service. Fivetran supports syncing files and lists from your SharePoint site to your destination. You can sync multiple files and lists as unique tables to your destination.
+ShipStation,Productivity,ShipStation is an ecommerce shipping platform.
+Shopify,Sales,Shopify is an ecommerce platform that has everything you need to sell online, on social media, or in person.
+SkuVault,Productivity,SkuVault is a cloud-based inventory and warehouse management platform.
+Slack,Productivity,Slack is a messaging program designed specifically for the workplace.
+Snapchat Ads,Marketing,Snapchat Ads provides a platform to create, manage and measure your campaigns. You can find more information on Snapchat documentation. Snapchat Ads connector provides a history of the settings and detailed reports of your Snapchat Ad Accounts, Campaigns, Ad Squads, and Media Creatives.
+Snowflake,Database,Cloud Database Service (https://www.snowflake.com/)
+Snowplow,Events,Snowplow Analytics is an event tracking platform that allows you to track events across all channels and action the data in real-time. Snowplow uses trackers to track your information in whichever language your project is built.
+SonarQube,Productivity,SonarQube is an open-source platform for continuous inspection of code quality.
+Split,Engineering,Split is a feature delivery platform.
+Splunk,Engineering,Splunk is a software platform that searches, analyzes and visualizes the machine-generated data gathered from websites, applications, sensors, and devices.
+Square,Finance,Square, Inc. is a financial services, merchant services aggregator, and mobile payment company.
+Squarespace,Finance,Squarespace is a platform for building and hosting websites.
+Statsig,Engineering,Statsig is a product observability platform.
+Stripe,Finance,Stripe is a credit card payment system that helps you track recurring charges
+Stripe test mode,Finance,Stripe is an online payment processing platform.
+Subscript,Finance,Subscript is a subscription intelligence platform that helps finance teams in tracking and comprehending subscription metrics
+SurveyMonkey,Support,SurveyMonkey is an online survey development tool to create and run surveys.
+Survicate,Support,Survicate is a survey tool that can gather data on a user's experience across a platform.
+Taboola,Marketing,Taboola develops and markets a service for online content publishers and advertisers that recommends digital content to website users. You can find more information on Taboola documentation.
+Talkdesk,Support,Talkdesk is a cloud-based call center solution.
+Tempo,Engineering,Tempo is a time management platform.
+The Trade Desk,Marketing,The Trade Desk is an advertising service that provides users with a multifaceted approach to advertising automation.
+Tiktok Ads,Marketing,TikTok is a video-sharing social networking platform. TikTok Ads gives you information about the performance of your ads.
+Twilio,Engineering,Twilio is a cloud communications platform that allows users to programmatically make and receive phone calls, send and receive text messages.
+Twitter Ads,Marketing,Twitter Ads provides a history of the settings and detailed reports of your Twitter Ad Accounts, Campaigns, Line Items, Tweets, and Media Creatives.
+Twitter Organic,Marketing,Twitter is a microblogging and social networking service. Fivetran's Twitter Organic connector provides a history of the settings and a detailed report of your organic tweet data.
+Typeform,Support,Typeform is an online survey management solution.
+UserVoice,Support,UserVoice is product feedback management software that enables businesses gather and analyze customer feedback and prioritize feature requests to drive strategic product decisions.
+Verizon Media,Marketing,Verizon Media (formerly known as Yahoo Gemini) offers you information about the performance of your Verizon Media Ads. You can find more information about it on Verizon Media's documentation page.
+Webhooks,Events,A webhook is a user-defined HTTP callback triggered by an event on your website or in your application. A webhook allows you to send real-time HTTP notifications from one application to another whenever an event you specify occurs. A webhook URL receives JSON objects as HTTP POST requests.
+When I Work,HumanResources,When I Work is a cloud-based employee scheduling solution.
+WooCommerce,Marketing,WooCommerce is an open-source e-commerce plugin for WordPress.
+Workable,HumanResources,Workable is the world's leading hiring platform.
+Workday HCM,HumanResources,Workday HCM is a cloud-based human capital management that brings HR, recruiting, staffing, benefits administration, compensation management and related functions together in one system.
+Workday RaaS,HumanResources,Workday RaaS is a cloud ERP system for finance, HR, and planning.
+Wrike,Productivity,Wrike is a cloud-based work management platform.
+Xero,Finance,Xero provides cloud accounting services and includes a cashbook, automated daily bank feeds, invoicing, debtors, creditors, sales tax and reporting.
+YouTube Analytics,Marketing,YouTube Analytics Bulk Reports contain a comprehensive set of YouTube Analytics data for a channel or content owner.
+Zendesk Chat,Support,Zendesk Chat creates customer engagement for online businesses with its live chat software.
+Zendesk Sell,Support,Zendesk Sell is a sales CRM solution and sales force automation tool.
+Zendesk Sunshine,Support,Zendesk Sunshine is an open and flexible CRM platform. It lets you seamlessly connect and understand all your customer data. It is fast, powerful and gives you the freedom to build whatever you want.
+Zendesk Support,Support,Zendesk Support is a cloud-based customer support platform.
+Zoho CRM,Support,Zoho CRM is an online CRM platform that manages your sales, marketing, and customer support activities.
+Zuora,Finance,Zuora is a SaaS application designed to automate billing, commerce and finance operations. It helps companies build and run subscription businesses.
+Zuora Sandbox,Finance,Zuora is a SaaS application designed to automate billing, commerce and finance operations. It helps companies build and run subscription businesses.
